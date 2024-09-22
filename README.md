@@ -17,6 +17,11 @@ The vision of the Online Secure Exam Proctoring project is to create a reliable 
 - *Mobile Application*: A mobile-friendly version of the platform to allow for more flexible exam-taking options.
 - *Expanded Reporting Tools*: Advanced analytics and reporting features to provide insights into exam performance and proctoring efficacy.
 - *Integration with Learning Management Systems (LMS)*: Seamless integration with existing LMS platforms to provide a holistic educational experience.
+## Deployment
+Contact Address: https://explorer.aptoslabs.com/account/0x28a8ab2bc70aea12ac2144b2c93a5b4c471ee0bd3d8c0e26dd91c56a90ffb737?network=devnet
+network=devnet Transcation Hash:0x28a8ab2bc70aea12ac2144b2c93a5b4c471ee0bd3d8c0e26dd91c56a90ffb737
+
+![Uploading image.png…]()
 
 ## Contact Information
 For more information, inquiries, or contributions, please reach out to us:
